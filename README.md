@@ -19,6 +19,9 @@ npm run build
 # push to GitHub → connect to Vercel → auto-deploy
 ```
 
+## Live Demo
+[sport-iq-nine.vercel.app](https://sport-iq-nine.vercel.app)
+
 ## Features
 - Football & Baseball scenario-based quizzes
 - Instant answer feedback with explanations
